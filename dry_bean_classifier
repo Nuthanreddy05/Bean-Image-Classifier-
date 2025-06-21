@@ -1,0 +1,9 @@
+dry_bean_classifier/
+├── data/
+│   └── Dry_Bean_Dataset.xlsx        # UCI dataset
+├── src/
+│   ├── train.py                    # Model training
+│   ├── predict.py                  # Prediction logic
+├── app.py                          # Streamlit app
+├── requirements.txt
+└── README.md
